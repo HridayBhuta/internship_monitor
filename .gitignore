@@ -1,0 +1,12 @@
+# User-specific company urls
+urls.txt
+
+# Generated job data
+jobs/today/*
+jobs/yesterday/*
+
+# Logs
+logs/*.log
+
+# Cron logs
+logs/cron.log

@@ -1,0 +1,2 @@
+Google|https://careers.google.com/jobs/results/
+Microsoft|https://jobs.careers.microsoft.com/global/en/search

@@ -1,0 +1,2 @@
+# Run job tracker every day at 9 AM
+0 9 * * * /absolute/path/to/job-tracker/run.sh >> /absolute/path/to/job-tracker/logs/cron.log 2>&1
