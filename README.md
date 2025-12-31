@@ -90,3 +90,6 @@ crontab -e
 ```
 
 Follow the example given in cron/cron.example. That will make the script run everyday automatically at 9 am.
+
+## License
+MIT License
