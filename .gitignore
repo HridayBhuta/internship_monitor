@@ -1,3 +1,6 @@
+# Virtual environment
+.venv/
+
 # User-specific company urls
 urls.txt
 
